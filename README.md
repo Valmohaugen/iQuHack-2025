@@ -34,24 +34,7 @@ This notebook simulates a quantum system in the lab frame and engineers the Hami
 - Visualizing the Wigner function for the memory mode
 - Beginning simulation in a rotated-displaced frame
 
-### Hackathon Structure
-
-Teams or individuals work on the provided notebooks, using the Resources directory for reference material. Submissions are organized by team name under the `submission/` directory. Each team should provide their completed notebooks and a README explaining their methods and results.
-
-## Directory Layout
-
-```
-iQuHack-2025/
-├── Challenge 1.ipynb         # Main challenge notebook 1
-├── Challenge 2.ipynb         # Main challenge notebook 2
-├── README.md                 # Project documentation
-├── Resources/                # Reference materials, datasets, or helper scripts
-└── submission/
-	 └── VeggieGalaxy/
-		  ├── Challenge 1.ipynb # Team VeggieGalaxy's solution to challenge 1
-		  ├── Challenge 2.ipynb # Team VeggieGalaxy's solution to challenge 2
-		  └── README.md         # Team-specific documentation
-```
+---
 
 ## How to Use This Repository
 
@@ -68,25 +51,7 @@ iQuHack-2025/
 3. **Consult Resources:**
 	- The `Resources` directory may contain background information, example code, or datasets relevant to the challenges.
 
-4. **Review Submissions:**
-	- Check `submission/VeggieGalaxy/` for a sample team submission. Each team should create a similar folder structure.
-
-## Submission Guidelines
-
-- Create a folder under `submission/` with your team name.
-- Add your completed challenge notebooks and a README describing your approach, results, and any technical notes.
-- Ensure your code is well-documented and reproducible.
-
 ## Technical Notes
 
 - All notebooks are expected to run in a standard Python environment with Jupyter support.
-- If additional packages are required, list them in your team README or provide a requirements.txt.
 - Use the Resources directory for any helper scripts or data files.
-
-## License & Attribution
-
-Refer to the hackathon guidelines for licensing. If you use external code or resources, provide proper attribution in your README or notebook.
-
-## Contact & Issues
-
-For questions, open an issue in the repository. For hackathon-specific inquiries, contact the organizers.
