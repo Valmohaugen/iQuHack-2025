@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains all materials for the Alice & Bob challenge from iQuHACK 2025, a quantum computing hackathon. The challenge is designed to test participants' skills in quantum information, algorithm design, and collaborative problem solving. The project is organized to facilitate both individual exploration and team submissions.
+This repository contains all materials for the Alice & Bob challenge from iQuHack 2025, MIT's annual quantum computing hackathon. The challenge is designed to test participants' skills in quantum information, algorithm design, and collaborative problem solving. The project is organized to facilitate both individual exploration and team submissions.
 
 
 ### Challenge Descriptions
