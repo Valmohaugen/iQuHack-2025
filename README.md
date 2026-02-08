@@ -19,7 +19,7 @@ This repository is the home for the iQuHack 2025 Alice & Bob challenge, focused 
 2. **Open the challenge notebooks:**
    - Use Jupyter Notebook or VS Code to open `Challenge 1.ipynb` and `Challenge 2.ipynb`.
 3. **Consult Resources:**
-   - The `Resources` file contains background reading and helpful links (e.g., [iQuHACK 2025 Alice & Bob](https://github.com/iQuHACK/2025-Alice-and-Bob)).
+   - The `Resources` file contains background reading and helpful links (e.g., [iQuHack 2025 Alice & Bob Challenge Repo](https://github.com/iQuHACK/2025-Alice-and-Bob)).
 4. Make sure you have Python, Jupyter, and the required packages (`dynamiqs`, `jax`, `matplotlib`, `numpy`, `scipy`).
    - If you use additional packages, list them in your `requirements.txt` and kernel.
 
