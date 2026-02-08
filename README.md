@@ -41,14 +41,5 @@ Running the project end-to-end, you will:
 - Simulate and visualize the stabilization of a cat qubit, including photon number, parity, and Wigner function evolution.
 - Engineer and analyze lab-frame Hamiltonians, producing animations and insights into quantum state dynamics.
 - Compare simulation methods, implement gates, and apply optimal control.
-- Example solutions (see `submission/VeggieGalaxy`) demonstrate successful implementation and analysis.
-    3. **Consult Resources:**
-        - Review the `Resources` file for background information and helpful links.
-
-    4. **Review and Submit Solutions:**
-        - Check the `VeggieGalaxy` folder for a sample team submission.
-        - Create your own team folder under `submission` and add your completed notebooks and a README describing your approach and results.
-
-    5. **Dependencies:**
-        - Ensure you have Python, Jupyter, and required packages (e.g., `dynamiqs`, `jax`, `matplotlib`, `numpy`, `scipy`) installed.
-        - If additional packages are needed, list them in your team README or provide a `requirements.txt`.
+- **Dependencies:**
+   - Ensure you have Python, Jupyter, and required packages (e.g., `dynamiqs`, `jax`, `matplotlib`, `numpy`, `scipy`) installed.
