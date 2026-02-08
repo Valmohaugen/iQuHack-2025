@@ -1,6 +1,6 @@
 # iQuHack-2025: Alice & Bob Challenge
 
-This repository is the home for the iQuHACK 2025 Alice & Bob challenge, focused on simulating and controlling cat qubits in open quantum systems. 
+This repository is the home for the iQuHack 2025 Alice & Bob challenge, focused on simulating and controlling cat qubits in open quantum systems. 
 
 ## Features
 
