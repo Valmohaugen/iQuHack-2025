@@ -11,7 +11,7 @@ This repository is the home for the iQuHACK 2025 Alice & Bob challenge, focused 
 - **Team Submission System:** Organized structure for submitting solutions, with sample solutions provided.
 - **Resources:** Reference materials and example code for background and support.
 
-## Project Flow
+## Pippeline
 
 Start by exploring the main challenge notebooks. You'll set up quantum systems, construct operators and Hamiltonians, and simulate their evolution. The workflow is interactive: run code, visualize results, and iterate on your approach. The project encourages experimentation—try different simulation methods, implement gates, or optimize state preparation. When ready, organize your work for submission using the provided structure.
 
@@ -52,11 +52,3 @@ Running the project end-to-end, you will:
     5. **Dependencies:**
         - Ensure you have Python, Jupyter, and required packages (e.g., `dynamiqs`, `jax`, `matplotlib`, `numpy`, `scipy`) installed.
         - If additional packages are needed, list them in your team README or provide a `requirements.txt`.
-
-    ## Results
-
-    When the project is run end-to-end:
-
-    - **Challenge 1** produces time-evolved quantum states of a cat qubit, with visualizations of photon number, parity, and Wigner functions. It demonstrates stabilization via two-photon dissipation, compares simulation methods, and shows the effect of quantum gates and optimal control.
-    - **Challenge 2** simulates the system in the lab frame, engineering complex Hamiltonians and visualizing the resulting quantum state evolution. The results include animations of the Wigner function and insights into Hamiltonian engineering.
-    - **Team Submissions** (e.g., VeggieGalaxy) provide example solutions, demonstrating successful implementation and analysis of the challenges.
