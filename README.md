@@ -30,5 +30,6 @@ Running the project end-to-end, you will:
 - Simulate and visualize the stabilization of a cat qubit, including photon number, parity, and Wigner function evolution.
 - Engineer and analyze lab-frame Hamiltonians, producing animations and insights into quantum state dynamics.
 - Compare simulation methods, implement gates, and apply optimal control.
-- **Dependencies:**
+
+**Dependencies:**
    - Ensure you have Python, Jupyter, and required packages (e.g., `dynamiqs`, `jax`, `matplotlib`, `numpy`, `scipy`) installed.
