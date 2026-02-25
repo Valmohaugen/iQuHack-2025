@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(echo === $\\(basename \"$dir\"\\) ===:*)",
+      "Bash(python3:*)",
+      "Bash(pip show:*)",
+      "Bash(conda run:*)",
+      "Bash(conda env:*)",
+      "Bash(head:*)"
+    ]
+  }
+}

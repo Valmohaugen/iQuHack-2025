@@ -1,0 +1,6 @@
+dynamiqs>=0.3.0
+jax>=0.4.0
+jaxlib>=0.4.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+scipy>=1.10.0
