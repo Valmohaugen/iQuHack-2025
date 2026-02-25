@@ -1,12 +1,6 @@
 # iQuHack 2025: Alice & Bob Challenge
 
-> **Event:** [MIT iQuHACK 2025](https://www.iquack.io/) -- January 31 - February 2, 2025
-> **Challenge:** [Alice & Bob -- Cat Qubit Simulation](https://github.com/iQuHACK/2025-Alice-and-Bob)
-> **Team:** VeggieGalaxy
-
-Simulating and controlling cat qubits in open quantum systems using two-photon
-dissipation, Hamiltonian engineering, and optimal control with the `dynamiqs`
-library and JAX.
+This repository is the home for the iQuHACK 2025 Alice & Bob challenge, focused on simulating and controlling cat qubits in open quantum systems—using two-photon dissipation, Hamiltonian engineering, and gradient-based optimal control with the `dynamiqs` library and JAX.
 
 ## Features
 
